@@ -6,8 +6,6 @@
 ![效果演示](2.mp4)
 
 
-<video src="1.mp4" controls autoplay muted loop playsinline width="640" height="360"> 
-您的浏览器不支持视频播放。 
-</video>
+<video src="1.mp4" controls width="100%"></video>
 
 ### 下一步增加队列形式，提高实时性，将TTS，STT和LLM融入进来，实现更加智能的语音交互。
