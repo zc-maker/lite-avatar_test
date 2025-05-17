@@ -3,8 +3,12 @@
 ### 实现结果，对存在的wav文件进行处理，实时显示出人物的变化
 
 
-Uploading bandicam 2025-05-17 23-50-08-875.mp4…
 
+
+
+
+
+https://github.com/user-attachments/assets/b475b8ec-6d0a-43fe-b8db-e93b2f934cd4
 
 
 
